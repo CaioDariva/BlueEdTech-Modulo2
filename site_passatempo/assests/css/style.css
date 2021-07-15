@@ -34,8 +34,7 @@ header{
 
 img{
     display: block;
-    margin-left: auto;
-    margin-right: auto;
+    margin: auto;
 }
 
 body{
@@ -48,13 +47,12 @@ body section{
 
 body section h3{
     color: white;
-    margin-left: 4rem;
-    margin-bottom: 1rem;
+    padding: 1rem;
 }
 
 body section p{
     color: white;
-    margin-left: 4rem;
+    padding: 1rem;
 }
 
 body section ol li{
