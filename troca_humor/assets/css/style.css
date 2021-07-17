@@ -17,7 +17,6 @@ body header{
 }
 
 body section p{
-    justify-content: center;
     font-size: 2rem;
     text-align: justify;
     padding-left: 13rem;
@@ -46,4 +45,16 @@ body section button:hover{
     color: #011270;
     transform: scale(1.2);
     }
+
+body section h3{
+    text-align: center;
+    padding-top: 2rem;
+    font-size: 1.3rem;
+}
+
+body section img{
+    display: block;
+    margin: auto;
+    padding-bottom: 2rem;
+}
 
