@@ -1,5 +1,5 @@
-const elementoFrase = document.querySelector('#frase')
-const elementoImg = document.querySelector('#imagem')
+let elementoFrase = document.querySelector('#frase')
+let elementoImg = document.querySelector('#imagem')
 let elementoBtn = document.querySelector('#botao')
 
 elementoBtn.addEventListener('click', () =>{
